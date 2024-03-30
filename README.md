@@ -1,0 +1,1 @@
+# -bitcomposer-moleculer-aws-s3
